@@ -1,0 +1,8 @@
+ /* Student Name: Jason Zubia, Lab Section: <your lab section 17605> */
+
+1. I'm most excited for the Android development section of the course. I would like to learn how to develop and deploy
+an application that works on a mobile device. I would also like to strength my core understandings of Object oriented
+programming to better myself as a future software engineer.
+2. Looking ahead at the course schedule, if it is possible to expand on networking/machine learning I would be
+interested in at least getting introduced into these areas. Not exactly sure how heavily they will be covered, that is
+why I suggest maybe a deeper dive depending on time and how much each area has to offer.

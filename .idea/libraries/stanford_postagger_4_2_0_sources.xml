@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="stanford-postagger-4.2.0-sources">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/stanford-tagger-4.2.0/stanford-postagger-full-2020-11-17/stanford-postagger-4.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/stanford-tagger-4.2.0/stanford-postagger-full-2020-11-17/stanford-postagger-4.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/stanford-tagger-4.2.0/stanford-postagger-full-2020-11-17/stanford-postagger-4.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

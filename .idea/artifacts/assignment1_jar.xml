@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="assignment1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/assignment1_jar</output-path>
+    <root id="archive" name="assignment1.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-test-output" name="assignment1" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/stanford-tagger-4.2.0/stanford-postagger-full-2020-11-17/stanford-postagger-4.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
